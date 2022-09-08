@@ -84,6 +84,8 @@ print("6")
 print("7")"""
 def hello():
     print("Hello World")
+    for i in range(5):
+        print("-----------")
     print("Good bye World")
     return
 
