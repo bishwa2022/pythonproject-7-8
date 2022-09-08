@@ -3,7 +3,7 @@ import math
 
 n = 1
 while n <= 1000:
-    if n%3 == 0:
+    if n % 3 == 0:
         print(n)
     n = n + 1
 
@@ -30,7 +30,6 @@ while s != "":
     5 = input(prompt)
 else:
     print(f"The smallest given was {smallest}, and largest was {largest}")"""
-
 
 # phase 4
 
@@ -82,14 +81,37 @@ print("4")
 print("5")
 print("6")
 print("7")"""
-def hello():
+
+
+"""def hello():
     print("Hello World")
     for i in range(5):
         print("-----------")
     print("Good bye World")
-    return
+    return"""
 
 
-hello()
-print("Blaa bla blaa")
-hello()
+"""def minus(argument):
+    if argument > 0:
+        return -argument
+    else:
+        return argument
+
+
+def sqr(a):
+    x = a / 2  # initial guess for the square root
+
+    while abs(x * x - a) >= 0.001:  # Iterative algorithm until we have enough accuracy
+        x = (a / x * X) / 2  # improve the estimate x for the square root
+
+    return x
+
+
+def plus(a, b):
+    return a + b
+
+
+result = plus(2, 6)
+print(f"{result}")"""
+
+
