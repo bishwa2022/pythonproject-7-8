@@ -82,11 +82,12 @@ print("4")
 print("5")
 print("6")
 print("7")"""
+def hello():
+    print("Hello World")
+    print("Good bye World")
+    return
 
-print("Hello World")
-print("Good bye World")
 
+hello()
 print("Blaa bla blaa")
-
-print("Helllo World")
-print("Good bye World")
+hello()
