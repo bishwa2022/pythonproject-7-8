@@ -59,7 +59,7 @@ while n > 0:
 else:
     print("Access denied")"""
 
-N = int(input("How many random points to generate?"))
+"""N = int(input("How many random points to generate?"))
 n = 0
 i = 0
 while N > i:
@@ -70,4 +70,23 @@ while N > i:
         n = n + 1
     i += 1
 pi = 4.*n/N
-print(f"pi is {pi}, error {math.pi - pi}")
+print(f"pi is {pi}, error {math.pi - pi}")"""
+"""n = 1
+while n <= 7:
+    print(f"{n}")
+    n = n + 0
+print("1")
+print("2")
+print("3")
+print("4")
+print("5")
+print("6")
+print("7")"""
+
+print("Hello World")
+print("Good bye World")
+
+print("Blaa bla blaa")
+
+print("Helllo World")
+print("Good bye World")
