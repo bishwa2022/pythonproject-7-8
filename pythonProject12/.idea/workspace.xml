@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3c954d1-6ef0-4c94-8cc0-887efaa2efff" name="Changes" comment="excercise">
-      <change afterPath="$PROJECT_DIR$/../Exercise/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise/.idea/Exercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercise/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject11/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject11/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject11/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject11/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject11/.idea/pythonProject11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_1_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_2_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject7/.idea/pythonProject7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject9/.idea/pythonProject9.iml" afterDir="false" />
-    </list>
+    <list default="true" id="e3c954d1-6ef0-4c94-8cc0-887efaa2efff" name="Changes" comment="abc" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +15,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -93,7 +74,7 @@
       <updated>1663435121886</updated>
       <workItem from="1663435127074" duration="2319000" />
       <workItem from="1663502881516" duration="7893000" />
-      <workItem from="1663511543038" duration="9483000" />
+      <workItem from="1663511543038" duration="9829000" />
     </task>
     <task id="LOCAL-00001" summary="excercise">
       <created>1663436288572</created>
@@ -102,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663436288572</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="abc">
+      <created>1663521748010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663521748010</updated>
+    </task>
+    <task id="LOCAL-00003" summary="abc">
+      <created>1663521772913</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663521772913</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +116,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="excercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="excercise" />
+    <MESSAGE value="abc" />
+    <option name="LAST_COMMIT_MESSAGE" value="abc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -135,7 +131,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject12$practice_2_variables.coverage" NAME="practice_2_variables Coverage Results" MODIFIED="1663521537541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject12$practice_2_variables.coverage" NAME="practice_2_variables Coverage Results" MODIFIED="1663521626395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject12$practice_1_variables.coverage" NAME="practice_1_variables Coverage Results" MODIFIED="1663519156710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject12$main.coverage" NAME="main Coverage Results" MODIFIED="1663511949859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
