@@ -68,12 +68,12 @@ while command!="stop":
     print("Execution command: " + command)
     command = input("Enter command: ")
 print ("Execution is stopped.")"""
-list1 = []
+""""list1 = []
 match_points = [9, 4, 3, 8, 10, 6]
 print(match_points[0])
 print(match_points[3])
 print(match_points[5])
-print("The total points of these matches is:", match_points[0] + match_points[3] + match_points[5])
+print("The total points of these matches is:", match_points[0] + match_points[3] + match_points[5])"""
 
 
 
