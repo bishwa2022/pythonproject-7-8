@@ -1,3 +1,4 @@
+#question 1
 import mysql.connector
 
 connection = mysql.connector.connect(
@@ -19,3 +20,6 @@ def getflight_game(icao):
     return
 
 getflight_game('00AA')
+
+# question 2
+
